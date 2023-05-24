@@ -11,3 +11,8 @@ This repository is dedicated to my journey of learning the Solana.
 * To be able to familiarize myself with web3 blockchain network and build my own dApp.
 * Have solid fundamentals in web3 technologies
 * To be able to completely understand Solana Concept
+
+## 📈 Progress
+
+### Week 1
+* [daoist started his learning journey in Solana] -
