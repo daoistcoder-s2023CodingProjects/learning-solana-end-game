@@ -1,4 +1,4 @@
-# 💻 Solana Learning Repository
+# 💻 Solana Learning Repository - daoist version
 
 This repository is dedicated to my journey of learning the Solana.
 
